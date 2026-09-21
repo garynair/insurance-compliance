@@ -30,7 +30,7 @@ Thank you for considering a contribution. This list covers **US insurance regula
 
 ## Style
 
-- British English in the description copy.
+- American English in the description copy.
 - No emojis.
 - Avoid banned vocabulary (delve, leverage, harness, robust, seamless, holistic, transformative, paradigm). Plain language wins.
 - Note a model law's state-adoption status where relevant rather than implying it is universally in force — insurance regulation is state-by-state, and an entry that reads as nationally binding when it is not is a factual error, not a style nitpick.
@@ -45,6 +45,6 @@ Thank you for considering a contribution. This list covers **US insurance regula
 
 A maintainer reviews PRs within seven days. Most PRs that meet the criteria above land within two weeks.
 
-## Licence
+## License
 
 By contributing you agree your contribution is released under CC0 1.0 Universal.

@@ -154,6 +154,8 @@ No HITRUST-equivalent body exists to combine insurance's overlapping state, NAIC
 - [Security Frameworks](https://github.com/garynair/security-frameworks) - A companion curated list covering NIST CSF, ISO/IEC 27001, and PCI-DSS — the source for the general-purpose control framework most insurers layer underneath the state-specific obligations above.
 
 Also part of this series: **Federal Compliance** (FedRAMP, CMMC, NIST SP 800-171/800-53, FISMA, and related federal contracting frameworks) is being built locally alongside this list and is not yet published to GitHub, so it is named here rather than linked.
+- [Risk Management](https://github.com/garynair/risk-management) - A companion curated list covering the risk register, heat maps, and treatment planning that unresolved findings from this list feed into.
+- [Privacy Compliance](https://github.com/garynair/privacy) - A companion curated list covering GDPR, CCPA/CPRA, and the US state privacy patchwork — the privacy-specific obligations that run alongside these requirements.
 
 ---
 

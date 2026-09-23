@@ -1,3 +1,5 @@
+![Insurance Compliance](docs/banner.png)
+
 # Insurance Compliance
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
